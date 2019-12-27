@@ -1,0 +1,8 @@
+C:\Programming\Fun\Mortar and pestle\Mortar and pestle\bin\Release\Mortar and pestle.exe.config
+C:\Programming\Fun\Mortar and pestle\Mortar and pestle\bin\Release\Mortar and pestle.exe
+C:\Programming\Fun\Mortar and pestle\Mortar and pestle\bin\Release\Mortar and pestle.pdb
+C:\Programming\Fun\Mortar and pestle\Mortar and pestle\obj\Release\Mortar_and_pestle.MainForm.resources
+C:\Programming\Fun\Mortar and pestle\Mortar and pestle\obj\Release\Mortar_and_pestle.Properties.Resources.resources
+C:\Programming\Fun\Mortar and pestle\Mortar and pestle\obj\Release\Mortar and pestle.csproj.GenerateResource.cache
+C:\Programming\Fun\Mortar and pestle\Mortar and pestle\obj\Release\Mortar and pestle.exe
+C:\Programming\Fun\Mortar and pestle\Mortar and pestle\obj\Release\Mortar and pestle.pdb
