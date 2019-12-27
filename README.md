@@ -1,7 +1,7 @@
 ## Mortar and pestle
 A filterable database containing all ingredients in [The Elder Scrolls V: Skyrim](https://en.wikipedia.org/wiki/The_Elder_Scrolls_V%3A_Skyrim)
 
-## All ingredients stored in the database were copied from the list located [here](https://en.uesp.net/wiki/Skyrim:Ingredients)
+### All ingredients stored in the database were copied from the list located [here](https://en.uesp.net/wiki/Skyrim:Ingredients)
 
 ![Skyrim](MainForm.png?raw=true "Skyrim")
 
